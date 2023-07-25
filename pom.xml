@@ -12,10 +12,10 @@
 	</parent>
 	<groupId>com.mt</groupId>
 	<artifactId>git-jenk-sonar-nexus-kube</artifactId>
-	<version>1.0-RELEASE</version>
+	<version>1.0-SNAPSHOTSI[I</version>
 	<properties>
 		<java.version>1.8</java.version>
-		<spring-boot.version>2.1.5.RELEASE</spring-boot.version>
+		<spring-boot.versO[Oion>2.1.5.RELEASE</spring-boot.version>
 		<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
 		<logstash-logback-encoder.version>6.1</logstash-logback-encoder.version>
 	</properties>
